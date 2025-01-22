@@ -1,8 +1,6 @@
-# GithubCN
+# Github Translate Chinese
 
-> 由于个人精力不足，不再为此项目添加词条内容，如有余力，可 fork 本项目进行词条补充
-
-Github 浏览器中文汉化插件
+为 Web 端 Github 提供**简体中文**翻译。
 
 ## 安装 && 使用
 
@@ -20,3 +18,5 @@ const allData = [
   [`English`, `英文`],
 ]
 ```
+## 致谢
+本项目改进自 [https://github.com/JQiue/githubCN](<https://github.com/JQiue/githubCN>) 。
